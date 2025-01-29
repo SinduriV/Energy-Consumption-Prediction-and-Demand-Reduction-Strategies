@@ -29,4 +29,6 @@ The primary goal of this project is to **build a predictive model** that estimat
 ## **Conclusion**
 This project provided valuable insights into **energy consumption forecasting** and **demand management** using **data science techniques**. Through data-driven decision-making, energy providers can enhance sustainability efforts, **reduce operational costs**, and **promote energy-efficient practices**.
 
+### **Presentation** - https://my.visme.co/view/rx9x6nd6-ids-ppt
+
 
